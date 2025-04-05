@@ -9,6 +9,6 @@ kind: frontend
 labextension_name: jupyterlab_payments
 project_short_description: Payments theme using JupyterLab CSS variables
 python_name: jupyterlab_payments
-repository: https://github.com/jupyterlab/jupyterlab_pygments.git
+repository: https://github.com/jupyterlab/jupyterlab_payments.git
 test: brinks.com
 ©️ Pete&Jun Development Team.All rights reserved 
