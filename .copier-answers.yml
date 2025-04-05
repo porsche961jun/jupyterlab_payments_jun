@@ -1,13 +1,14 @@
-# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+#Pete-Gaming-Inc
 _commit: v4.2.4
 _src_path: https://github.com/jupyterlab/extension-template
-author_email: jupyter@googlegroups.com
-author_name: Jupyter Development Team
+author_email:wellsfargo.jun@gmail.com
+author_name: Pete&Jun Development Team
 has_binder: true
-has_settings: false
+has_settings: true
 kind: frontend
-labextension_name: jupyterlab_pygments
-project_short_description: Pygments theme using JupyterLab CSS variables
-python_name: jupyterlab_pygments
+labextension_name: jupyterlab_payments
+project_short_description: Payments theme using JupyterLab CSS variables
+python_name: jupyterlab_payments
 repository: https://github.com/jupyterlab/jupyterlab_pygments.git
-test: false
+test: brinks.com
+©️ Pete&Jun Development Team.All rights reserved 
